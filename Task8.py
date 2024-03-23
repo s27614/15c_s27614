@@ -1,4 +1,4 @@
-
+from square_generator.square_generator import SquareGenerator
 
 class SquareGenerator:
     def generate_squares(self, start, end):
