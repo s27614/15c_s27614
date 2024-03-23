@@ -1,5 +1,7 @@
-import math
 
+
+
+import math
 
 class SquareGenerator:
     def generate_squares(self, start, end):

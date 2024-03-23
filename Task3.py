@@ -1,4 +1,5 @@
 
+
 class SquareGenerator:
 
     def generate_squares(self,start,end):
@@ -9,5 +10,5 @@ class SquareGenerator:
     end_num = 10
     squares_list = square_gen.generate_squares(start_num, end_num)
     print(squares_list)
-    
+
 
